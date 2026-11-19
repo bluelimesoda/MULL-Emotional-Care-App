@@ -39,6 +39,13 @@
 - **Immersive Visual Strategy**: Built with theme-adaptive (Dark/Light) UI configurations to enhance user comfort and focus during emotional vulnerability.
 - **Conversion-Driven Funnel**: Grants a 3-turn complimentary interaction token to showcase the core value of the AI agent before seamlessly prompting user registration.
 - **Global Localization Support**: Engineered with scalable i18n infrastructure to perfectly preserve the empathetic and therapeutic tone across diverse linguistic domains.
+- ### Visual Implementation: Sentiment Tracking & Fail-Safe Cutoff
+
+| Real-Time Sentiment & Boundary Detection | Deterministic Crisis Fail-Safe UI |
+| :---: | :---: |
+| <img src="감정태깅_이미지_URL_붙여넣기" alt="Real-time Sentiment Tagging" width="320" /> | <img src="위기개입_이미지_URL_붙여넣기" alt="Crisis Cutoff UI" width="320" /> |
+| *Contextual state tracking without over-refusal* | *Immediate inference cancellation & helpline routing* |
+
 
 
 
