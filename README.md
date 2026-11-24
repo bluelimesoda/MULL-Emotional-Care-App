@@ -57,10 +57,10 @@
 ### 2. Deterministic Crisis Fail-Safe UI (Immediate Cutoff)
 *Hard circuit breaker that aborts probabilistic SLM generation upon detecting high-risk clinical crises and routes users to verified helplines.*
 
-| 3. Inference Cancellation & UI Lock | 4. Emergency Helpline Routing |
+| 3. Deterministic Crisis Cutoff | 4. Emergency Helpline Routing |
 | :---: | :---: |
-| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com/user-attachments/assets/f98f35f9-0f55-47ad-85a9-9f49314ae97b" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com/user-attachments/assets/5cc34017-d99b-4222-9d36-45906953add4" /> |
-| *Immediate inference abort & input lock* | *Direct routing to verified crisis support* |
+| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com" /> |
+| *Immediate SLM abort & crisis cutoff* | *Direct routing to verified crisis support* |
 
 - **Contextual Boundary Steering:** Categorizes benign emotional distress (`Distressed`) in real time to maintain helpful empathy while preventing sycophantic validation.
 - **Deterministic Fail-Safe Circuit Breaker:** Decouples acute crisis intervention from token generation via immediate UI cutoff and emergency routing.
