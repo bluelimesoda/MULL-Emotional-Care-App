@@ -44,6 +44,7 @@
 
 
 
+
 ## Visual Implementation: Sentiment Tracking & Fail-Safe Cutoff
 
 ### 1. Real-Time Sentiment & Boundary Detection (Zero Over-Refusal)
@@ -69,7 +70,7 @@
 
 
 
-### User Authentication & Settings
+## User Authentication & Settings
 
 <details>
 <summary><b>View Settings & Authentication Gallery (Click to expand)</b></summary>
@@ -87,7 +88,7 @@
 
 
 
-### Compliance & AI Safety
+## Compliance & AI Safety
 
 <details>
 <summary><b>View Terms of Service & Privacy Policy Details (Click to expand)</b></summary>
