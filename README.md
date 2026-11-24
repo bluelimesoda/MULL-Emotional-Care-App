@@ -59,9 +59,7 @@
 
 | 3. Deterministic Crisis Cutoff | 4. Emergency Helpline Routing |
 | :---: | :---: |
-| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com/user-attachments/assets/8e94a001-2200-4e22-9c8e-0df01858708c" />
-" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com/user-attachments/assets/b5913e76-f488-4a28-b8f1-20e21d073e4c" />
-" /> |
+| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com/user-attachments/assets/8e94a001-2200-4e22-9c8e-0df01858708c" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com/user-attachments/assets/b5913e76-f488-4a28-b8f1-20e21d073e4c" /> |
 | *Immediate SLM abort & crisis cutoff* | *Direct routing to verified crisis support* |
 
 - **Contextual Boundary Steering:** Categorizes benign emotional distress (`Distressed`) in real time to maintain helpful empathy while preventing sycophantic validation.
