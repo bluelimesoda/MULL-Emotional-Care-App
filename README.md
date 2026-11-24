@@ -42,6 +42,8 @@
 
 
 
+
+
 ## Visual Implementation: Sentiment Tracking & Fail-Safe Cutoff
 
 ### 1. Real-Time Sentiment & Boundary Detection (Zero Over-Refusal)
@@ -57,14 +59,13 @@
 
 | 3. Inference Cancellation & UI Lock | 4. Emergency Helpline Routing |
 | :---: | :---: |
-| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com/user-attachments/assets/f98f35f9-0f55-47ad-85a9-9f49314ae97b" />
-" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com/user-attachments/assets/5cc34017-d99b-4222-9d36-45906953add4" />
-" /> |
+| <img width="280" alt="Crisis Cutoff UI 1" src="https://github.com/user-attachments/assets/f98f35f9-0f55-47ad-85a9-9f49314ae97b" /> | <img width="280" alt="Crisis Cutoff UI 2" src="https://github.com/user-attachments/assets/5cc34017-d99b-4222-9d36-45906953add4" /> |
 | *Immediate inference abort & input lock* | *Direct routing to verified crisis support* |
 
 - **Contextual Boundary Steering:** Categorizes benign emotional distress (`Distressed`) in real time to maintain helpful empathy while preventing sycophantic validation.
 - **Deterministic Fail-Safe Circuit Breaker:** Decouples acute crisis intervention from token generation via immediate UI cutoff and emergency routing.
 - **Adaptive UX:** Provides togglable Dark and Light modes tailored to user comfort and lighting environments.
+
 
 
 
