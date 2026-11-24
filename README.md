@@ -57,7 +57,9 @@
 
 | 3. Inference Cancellation & UI Lock | 4. Emergency Helpline Routing |
 | :---: | :---: |
-| <img width="280" alt="Crisis Cutoff UI 1" src="위기개입_이미지_1_URL_붙여넣기" /> | <img width="280" alt="Crisis Cutoff UI 2" src="위기개입_이미지_2_URL_붙여넣기" /> |
+| <img width="280" alt="Crisis Cutoff UI 1" src="<img width="487" height="756" alt="스크린샷 2026-11-24 오후 4 34 44" src="https://github.com/user-attachments/assets/f98f35f9-0f55-47ad-85a9-9f49314ae97b" />
+" /> | <img width="280" alt="Crisis Cutoff UI 2" src="<img width="457" height="726" alt="스크린샷 2026-11-24 오후 4 35 40" src="https://github.com/user-attachments/assets/5cc34017-d99b-4222-9d36-45906953add4" />
+" /> |
 | *Immediate inference abort & input lock* | *Direct routing to verified crisis support* |
 
 - **Contextual Boundary Steering:** Categorizes benign emotional distress (`Distressed`) in real time to maintain helpful empathy while preventing sycophantic validation.
