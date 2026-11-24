@@ -39,25 +39,30 @@
 - **Immersive Visual Strategy**: Built with theme-adaptive (Dark/Light) UI configurations to enhance user comfort and focus during emotional vulnerability.
 - **Conversion-Driven Funnel**: Grants a 3-turn complimentary interaction token to showcase the core value of the AI agent before seamlessly prompting user registration.
 - **Global Localization Support**: Engineered with scalable i18n infrastructure to perfectly preserve the empathetic and therapeutic tone across diverse linguistic domains.
-- ### Visual Implementation: Sentiment Tracking & Fail-Safe Cutoff
-
-| Real-Time Sentiment & Boundary Detection | Deterministic Crisis Fail-Safe UI |
-| :---: | :---: |
-| <img src="감정태깅_이미지_URL_붙여넣기" alt="Real-time Sentiment Tagging" width="320" /> | <img src="위기개입_이미지_URL_붙여넣기" alt="Crisis Cutoff UI" width="320" /> |
-| *Contextual state tracking without over-refusal* | *Immediate inference cancellation & helpline routing* |
 
 
 
+## Visual Implementation: Sentiment Tracking & Fail-Safe Cutoff
 
-### AI Interaction & Sentiment Tracking
+### 1. Real-Time Sentiment & Boundary Detection (Zero Over-Refusal)
+*Contextual state tracking (`Distressed`) and empathetic response without false-positive refusals, supporting togglable Dark and Light modes.*
 
 | 1. Chat Interface (Dark Mode) | 2. Chat Interface (Light Mode) |
 | :---: | :---: |
-| <img width="452" height="723" alt="Image" src="https://github.com/user-attachments/assets/1d25db2c-6143-4c95-b3a1-d4a7251e46a2" /> |<img width="459" height="733" alt="Image" src="https://github.com/user-attachments/assets/cdf6f96d-8c55-4bf4-93f1-55ab1a53c068" /> |
+| <img width="280" alt="Real-time Sentiment Tagging (Dark)" src="https://github.com/user-attachments/assets/1d25db2c-6143-4c95-b3a1-d4a7251e46a2" /> | <img width="280" alt="Real-time Sentiment Tagging (Light)" src="https://github.com/user-attachments/assets/cdf6f96d-8c55-4bf4-93f1-55ab1a53c068" /> |
 | *Real-time sentiment tagging (`Distressed`)* | *Dynamic Light Mode transition for user comfort* |
 
-- **Real-Time Sentiment Analysis**: Automatically categorizes user emotions during individual sessions to dynamically tailor empathetic AI conversational tones.
-- **Visual Flexibility**: Provides togglable Dark and Light modes to cater to specific lighting environments and individual psychological preferences.
+### 2. Deterministic Crisis Fail-Safe UI (Immediate Cutoff)
+*Hard circuit breaker that aborts probabilistic SLM generation upon detecting high-risk clinical crises and routes users to verified helplines.*
+
+| 3. Inference Cancellation & UI Lock | 4. Emergency Helpline Routing |
+| :---: | :---: |
+| <img width="280" alt="Crisis Cutoff UI 1" src="위기개입_이미지_1_URL_붙여넣기" /> | <img width="280" alt="Crisis Cutoff UI 2" src="위기개입_이미지_2_URL_붙여넣기" /> |
+| *Immediate inference abort & input lock* | *Direct routing to verified crisis support* |
+
+- **Contextual Boundary Steering:** Categorizes benign emotional distress (`Distressed`) in real time to maintain helpful empathy while preventing sycophantic validation.
+- **Deterministic Fail-Safe Circuit Breaker:** Decouples acute crisis intervention from token generation via immediate UI cutoff and emergency routing.
+- **Adaptive UX:** Provides togglable Dark and Light modes tailored to user comfort and lighting environments.
 
 
 
